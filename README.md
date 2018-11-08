@@ -1,4 +1,6 @@
-   # I. Initiative
+# Contents
+
+# I. Initiative
 High-low is a simple where the player has to guess whether thier rolled dice is higher or lower than the computer generated between 1-10. If the player chooses to pick rolled dice is 
 # II. Epics and User Stories
 
