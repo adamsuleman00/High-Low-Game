@@ -54,7 +54,7 @@ Example:
 Should be above the code, using // to comment.
 Example:
 ```
-// this is code   
+// this is a comment   
 code() 
 ```
 ### Functions
