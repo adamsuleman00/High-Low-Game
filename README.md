@@ -37,7 +37,35 @@ C++
 #### Algorithms
 
 #### Coding Standards
-
+#### Indentations
+One tab per level of indentation.
+Example:
+```
+for x in range (1,10):
+    print (x)
+```
+### Naming
+camelCase with no underscores between words.
+Example:
+```
+ mouseMoved
+```
+### Comments
+Should be above the code, using // to comment.
+Example:
+```
+// this is code   
+code() 
+```
+### Functions
+The braces symbol should always be on a new line.
+Example:
+```
+int main() 
+{
+code
+}
+```
 # V. Research
 https://www.w3schools.in/cplusplus-tutorial/ <-- This provided multiple examples of snippets of code.
 # VI. Project management
